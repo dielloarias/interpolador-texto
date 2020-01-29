@@ -1,0 +1,23 @@
+{
+  "name": "interpolador-texto",
+  "version": "1.0.0",
+  "description": "Interpolador de Texto em Templates pre-definidas",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start" : "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Interpolador",
+    "Texto",
+    "Template"
+  ],
+  "author": {
+    "email": "dielloarias@gmail.com",
+    "name": "Diello Cardoso de La Paz Arias"
+  }
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.5.1"
+  }
+}
